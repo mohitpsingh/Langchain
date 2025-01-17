@@ -10,4 +10,7 @@ Learning Langchain from the starting
 
 
 Mohit are you making progress on these suggestions, since I cant see any updates on this repo.
-Work on these items on priority we will need this knowledge in near future
+Work on these items on priority we will need this knowledge in near future.
+
+# Use this File for daily updates Add date and the learning you have done
+*`Eg Jan/30/2025 - Worked on langchain agent exploration : File name - name_of_the_file.ipynb`*
