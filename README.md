@@ -13,6 +13,6 @@ Mohit are you making progress on these suggestions, since I cant see any updates
 Work on these items on priority we will need this knowledge in near future.
 
 # Use this File for daily updates Add date and the learning you have done
-### 17/01/2025 - Chaining in Langchain : File name - [Langchain_Tutorial5.ipynb](https://github.com/mohitpsingh/Langchain/blob/cb3dec30b2a73ac1dc18426bdb2f3f170c21bf61/Langchain_Tutorial5.ipynb)
-### 19/01/2025 - RAG Application : File name - [Langchain_Tutorial7](https://github.com/mohitpsingh/Langchain/blob/45734cdb13be64f4664bfc77abf4373e4b9ec984/Langchain_Tutorial7.ipynb)
+* ### 17/01/2025 - Chaining in Langchain : File name - [Langchain_Tutorial5.ipynb](https://github.com/mohitpsingh/Langchain/blob/cb3dec30b2a73ac1dc18426bdb2f3f170c21bf61/Langchain_Tutorial5.ipynb)
+* ### 19/01/2025 - RAG Application : File name - [Langchain_Tutorial7](https://github.com/mohitpsingh/Langchain/blob/45734cdb13be64f4664bfc77abf4373e4b9ec984/Langchain_Tutorial7.ipynb)
 *`Eg Jan/30/2025 - Worked on langchain agent exploration : File name - name_of_the_file.ipynb`*
